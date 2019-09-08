@@ -4,7 +4,7 @@ Project 1 - Flocking**
 
 Caroline Lachanski: [LinkedIn](https://www.linkedin.com/in/caroline-lachanski/), [personal website](http://carolinelachanski.com/)
 
-Tested on: (TODO) Windows 10, i5-2222 @ 2.22GHz 22GB, GTX 222 222MB
+Tested on: Windows 10, i5-6500 @ 3.20GHz 16GB, GTX 1660 (personal computer)
 
 ## Project Description
 
